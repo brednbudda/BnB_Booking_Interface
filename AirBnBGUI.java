@@ -1,10 +1,3 @@
-/*
-Assignment 1
-Brendan Burke
-Student Number: L00169987
-Software Development + Testing
-Prof Clare Doherty
-*/
 
 public class AirBnBBooking
 {
